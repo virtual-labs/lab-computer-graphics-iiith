@@ -7,16 +7,94 @@
     "deployLab": true,
     "phase": 2,
     "collegeName": "IIITH",
-    "baseUrl": "",
-    "introduction": "",
-    "experiments": [],
-    "targetAudience": {
-        "UG": [],
-        "PG": []
+    "baseUrl": "cse18-iiith.vlabs.ac.in",
+    "introduction": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics. We will go through understanding the concepts of 3D Coordinate systems, Transformations, Hierarchical modelling and Cameras. Later we will be visualising some basic algorithms used to render the graphics.",
+    "experiments": [
+    {
+      "name": "Points and Co-ordinate Systems",
+      "short-name": "coordinate-systems",
+      "repo": "https://github.com/virtual-labs/exp-coordinate-systems-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "",
+    {
+      "name": "Transformations: Translation",
+      "short-name": "transformations-translation",
+      "repo": "https://github.com/virtual-labs/exp-transformations-translation-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Transformations: Rotation",
+      "short-name": "transformations-rotation",
+      "repo": "https://github.com/virtual-labs/exp-transformations-rotation-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Transformations: Scaling",
+      "short-name": "transformations-scaling",
+      "repo": "https://github.com/virtual-labs/exp-transformations-scaling-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Hierarchical Transformations: 2D Demo",
+      "short-name": "2d-demo",
+      "repo": "https://github.com/virtual-labs/exp-2d-demo-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Hierarchical Transformations: 3D Articulated Arm",
+      "short-name": "3d-articulated-arm",
+      "repo": "https://github.com/virtual-labs/exp-3d-articulated-arm-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Projections and Cameras",
+      "short-name": "projections-and-cameras",
+      "repo": "https://github.com/virtual-labs/exp-projections-and-cameras-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Clipping: Line",
+      "short-name": "clipping-line",
+      "repo": "https://github.com/virtual-labs/exp-clipping-line-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Clipping: Polygon",
+      "short-name": "clipping-polygon",
+      "repo": "https://github.com/virtual-labs/exp-clipping-polygon-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Rasterization: Line",
+      "short-name": "rasterization-line",
+      "repo": "https://github.com/virtual-labs/exp-rasterization-line-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Rasterization: Polygon",
+      "short-name": "rasterization-polygon",
+      "repo": "https://github.com/virtual-labs/exp-rasterization-polygon-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Computer Science & Information Technology","B.Sc / B.S in Computer Science"],
+        "PG": ["Ph. D. Beginners"]
+    },
+    "objective": "This lab aims to understand the different concepts of graphics in virtual experiments.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": " ",
+        "universities": ["The basic concepts of CG are alignd with courses such as Linear Algebra, Matrix Theory, Projective Geometry and the like. The experiments touch on most topics covered in such courses in most curricula."]
     }
 }
