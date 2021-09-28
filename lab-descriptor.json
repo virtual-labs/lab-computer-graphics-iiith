@@ -8,7 +8,7 @@
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "cse18-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics. We will go through understanding the concepts of 3D Coordinate systems, Transformations, Hierarchical modelling and Cameras. Later we will be visualising some basic algorithms used to render the graphics.",
+  "introduction": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics. We will go through understanding the concepts of 3D Coordinate systems, Transformations, Hierarchical modelling and Cameras. Later we will be visualising some basic algorithms used to render the graphics.</br></br>Please note:</br>The simulations of this lab have some of the following software dependencies -</br>1. Browsers - Firefox 50 and lower versions, Internet Explorer</br>2. Software - Adobe Flash Plugin, Java1.7, Java3D-1.5.2, and IcedTea Plugin.</br></br>We recommend you to use our customized Virtual Box for the smooth running of these simulations.</br></br>Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies (Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://vlead.vlabs.ac.in/development/#virtual-box'>link</a> to download, install VirtualBox for easy use of Virtual Labs.",
   "experiments": [
     {
       "name": "Points and Co-ordinate Systems",
@@ -56,14 +56,14 @@
       "name": "Projections and Cameras",
       "short-name": "projections-and-cameras",
       "repo": "https://github.com/virtual-labs/exp-projections-and-cameras-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Clipping: Line",
       "short-name": "clipping-line",
       "repo": "https://github.com/virtual-labs/exp-clipping-line-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -84,7 +84,7 @@
       "name": "Rasterization: Polygon",
       "short-name": "rasterization-polygon",
       "repo": "https://github.com/virtual-labs/exp-rasterization-polygon-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -104,5 +104,5 @@
   },
   "exp_name": "Rasterization: Polygon",
   "exp_short_name": "rasterization-polygon",
-  "version": "v0.3.0"
+  "version": "v0.4.0"
 }
