@@ -5,6 +5,7 @@
     "code":"CSE"
   },
   "lab": "Computer Graphics",
+  "lab_display_name": "Computer Graphics",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
