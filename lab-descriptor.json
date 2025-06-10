@@ -41,7 +41,7 @@
       "deploy": true
     },
     {
-      "name": "Hierarchical Transformations: 2D Demo",
+      "name": "Hierarchical Transformations: 3D Space Demo",
       "short-name": "2d-demo",
       "repo": "https://github.com/virtual-labs/exp-2d-demo-iiith",
       "tag": "v2.0.0",
