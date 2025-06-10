@@ -10,7 +10,7 @@
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "cse18-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Computer Graphics lab ! Here , we will try some virtual experiments to understand the different concepts of graphics. We will go through understanding the concepts of 3D Coordinate systems, Transformations, Hierarchical modelling and Cameras. Later we will be visualising some basic algorithms used to render the graphics.</br></br>Please note:</br>The simulations of this lab have some of the following software dependencies -</br>1. Browsers - Firefox 50 and lower versions, Internet Explorer</br>2. Software - Adobe Flash Plugin, Java1.7, Java3D-1.5.2, and IcedTea Plugin.</br></br>We recommend you to use our customized Virtual Box for the smooth running of these simulations.</br></br>Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies (Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://vlead.vlabs.ac.in/development/#virtual-box'>link</a> to download, install VirtualBox for easy use of Virtual Labs.",
+  "introduction": "The Computer Graphics Lab is designed to help students grasp key graphics concepts like 3D coordinate systems, transformations, hierarchical modeling, and camera mechanics. The lab bridges theoretical knowledge with practical applications through interactive visualizations.<br>This virtual laboratory offers a comprehensive learning experience through:<br><br><ul><li>Interactive 2D and 3D transformations with real-time visual feedback<li>Step-by-step exploration of fundamental algorithms including line and polygon rasterization</li><li>Practical understanding of clipping techniques for both lines and polygons</li><li>Hands-on experience with camera projections and viewing transformations</li><li>Complex hierarchical modeling through the articulated arm experiment</li></ul><br>Each experiment is designed with interactive controls and real-time visual feedback, allowing students to:<br><br><ul><li>Manipulate objects in 3D space with immediate visual results</li><li>Observe transformation matrices updating in real-time</li><li>Experiment with different parameters and see their effects instantly</li><li>Understand the mathematical foundations through visual representation</li></ul><br>Please note:The simulations in this lab are designed to run on modern web browsers and do not require any additional plugins or software dependencies. We recommend using the latest versions of Chrome, Firefox, or Edge for the best experience.",
   "experiments": [
     {
       "name": "Points and Co-ordinate Systems",
@@ -97,11 +97,11 @@
     ],
     "PG": ["Ph. D. Beginners"]
   },
-  "objective": "This lab aims to understand the different concepts of graphics in virtual experiments.",
+  "objective": "This lab aims to understand -<br><br><ul><li>Comprehending 3D Graphics Fundamentals: Gain insights into 3D coordinate systems and transformations.</li><li>Mastering Hierarchical Modeling: Learn to construct complex models using hierarchical techniques.</li><li>Visualizing Rendering Algorithms: Understand and implement basic algorithms essential for rendering graphics.</li></ul>",
   "courseAlignment": {
-    "description": " ",
+    "description": "This Computer Graphics lab aligns with several fundamental and advanced courses in computer science and engineering curricula:<br><br><b>Core Mathematics and Computer Science Courses<b><br><br><ul><li>Linear Algebra: Matrix transformations, vector spaces, and coordinate systems</li><li>Calculus: Understanding continuous transformations and geometric concepts</li><li>Data Structures: Implementation of hierarchical models and scene graphs</li><ul><br><br><b>Computer Graphics and Related Courses<b><br><br><ul><li>Computer Graphics: Core concepts of 3D modeling, transformations, and rendering</li><li>Computer Vision: Understanding camera projections and viewing transformations</li><li>Game Development: Practical applications of hierarchical modeling and transformations</li></ul><br><br><b>Software Engineering and Programming<b><br><br><ul><li>Object-Oriented Programming: Implementation of graphics algorithms and data structures</li><li>Software Design Patterns: Application in developing interactive graphics systems</li></ul>",
     "universities": [
-      "The basic concepts of CG are alignd with courses such as Linear Algebra, Matrix Theory, Projective Geometry and the like. The experiments touch on most topics covered in such courses in most curricula."
+      
     ]
   }
 }
