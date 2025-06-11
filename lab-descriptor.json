@@ -97,7 +97,7 @@
     ],
     "PG": ["Ph. D. Beginners"]
   },
-  "objective": "This lab aims to understand -<br><ul><li>Comprehending 3D Graphics Fundamentals: Gain insights into 3D coordinate systems and transformations.</li><li>Mastering Hierarchical Modeling: Learn to construct complex models using hierarchical techniques.</li><li>Visualizing Rendering Algorithms: Understand and implement basic algorithms essential for rendering graphics.</li></ul>",
+  "objective": "This lab aims to understand -<br><ul><li><b>Comprehending 3D Graphics Fundamentals:</b> Gain insights into 3D coordinate systems and transformations.</li><li><b>Mastering Hierarchical Modeling:</b> Learn to construct complex models using hierarchical techniques.</li><li><b>Visualizing Rendering Algorithms:</b> Understand and implement basic algorithms essential for rendering graphics.</li></ul>",
   "courseAlignment": {
     "description": "This Computer Graphics lab aligns with several fundamental and advanced courses in computer science and engineering curricula:",
     "universities": [
