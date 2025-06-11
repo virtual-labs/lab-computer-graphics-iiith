@@ -101,17 +101,9 @@
   "courseAlignment": {
     "description": "This Computer Graphics lab aligns with several fundamental and advanced courses in computer science and engineering curricula:",
     "universities": [
-      "Core Mathematics and Computer Science Courses",
-      "Linear Algebra: Matrix transformations, vector spaces, and coordinate systems",
-      "Calculus: Understanding continuous transformations and geometric concepts",
-      "Data Structures: Implementation of hierarchical models and scene graphs",
-      "Computer Graphics and Related Courses",
-      "Computer Graphics: Core concepts of 3D modeling, transformations, and rendering",
-      "Computer Vision: Understanding camera projections and viewing transformations",
-      "Game Development: Practical applications of hierarchical modeling and transformations",
-      "Software Engineering and Programming",
-      "Object-Oriented Programming: Implementation of graphics algorithms and data structures",
-      "Software Design Patterns: Application in developing interactive graphics systems"
+     "Core Mathematics and Computer Science Courses: Linear Algebra (matrix transformations, vector spaces), Calculus (continuous transformations), Data Structures (hierarchical models)",
+      "Computer Graphics and Related Courses: Computer Graphics (3D modeling, transformations, rendering), Computer Vision (camera projections), Game Development (hierarchical modeling)",
+      "Software Engineering and Programming: Object-Oriented Programming (graphics algorithms), Software Design Patterns (interactive graphics systems)"
 
 
 
