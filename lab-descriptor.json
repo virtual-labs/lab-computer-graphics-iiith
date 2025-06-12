@@ -86,7 +86,7 @@
       "name": "Rasterization: Polygon",
       "short-name": "rasterization-polygon",
       "repo": "https://github.com/virtual-labs/exp-rasterization-polygon-iiith",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     }
   ],
