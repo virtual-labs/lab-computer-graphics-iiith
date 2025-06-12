@@ -37,7 +37,7 @@
       "name": "Transformations: Scaling",
       "short-name": "transformations-scaling",
       "repo": "https://github.com/virtual-labs/exp-transformations-scaling-iiith",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
@@ -65,14 +65,14 @@
       "name": "Clipping: Line",
       "short-name": "clipping-line",
       "repo": "https://github.com/virtual-labs/exp-clipping-line-iiith",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
       "name": "Clipping: Polygon",
       "short-name": "clipping-polygon",
       "repo": "https://github.com/virtual-labs/exp-clipping-polygon-iiith",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
