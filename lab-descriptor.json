@@ -7,7 +7,7 @@
   "lab": "Computer Graphics",
   "lab_display_name": "Computer Graphics",
   "deployLab": true,
-  "phase": 2,
+  "phase": "3-ext",
   "collegeName": "IIITH",
   "baseUrl": "cse18-iiith.vlabs.ac.in",
   "introduction": "The Computer Graphics Lab is designed to help students grasp key graphics concepts like 3D coordinate systems, transformations, hierarchical modeling, and camera mechanics. The lab bridges theoretical knowledge with practical applications through interactive visualizations.<br><br>This virtual laboratory offers a comprehensive learning experience through:<br><ul><li>Interactive 2D and 3D transformations with real-time visual feedback<li>Step-by-step exploration of fundamental algorithms including line and polygon rasterization</li><li>Practical understanding of clipping techniques for both lines and polygons</li><li>Hands-on experience with camera projections and viewing transformations</li><li>Complex hierarchical modeling through the articulated arm experiment</li></ul><br>Each experiment is designed with interactive controls and real-time visual feedback, allowing students to:<br><ul><li>Manipulate objects in 3D space with immediate visual results</li><li>Observe transformation matrices updating in real-time</li><li>Experiment with different parameters and see their effects instantly</li><li>Understand the mathematical foundations through visual representation</li></ul><br>Please note:The simulations in this lab are designed to run on modern web browsers and do not require any additional plugins or software dependencies. We recommend using the latest versions of Chrome, Firefox, or Edge for the best experience.",
